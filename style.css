@@ -12,8 +12,9 @@ body {
   font-size: 16px;
 }
 .container {
-  padding: 90px 0;
+  padding: 45px 0;
 }
+
 .row {
   width: 100%;
   max-width: 1200px;
@@ -999,41 +1000,40 @@ footer {
 
   .steps__img--container {
     width: 65%;
-    margin-bottom: 64px;
   }
 
   .steps__desc {
-    text-align: center;
-
     width: 100%;
+    text-align: center;
   }
   #steps .section__subtitle {
     font-size: 36px;
   }
 
   #steps .section__para {
-    text-align: center;
     font-size: 14px;
   }
 
   #steps .section__subtitle {
     font-size: 36px;
   }
-  .step__num,
+  /* .step__num,
   .step__header {
     text-align: center;
-  }
+  } */
 
+  .steps__desc {
+    margin-top: 20px;
+    margin-left: 0;
+    text-align: center;
+  }
   .step {
     flex-direction: column;
-  }
-
-  .step__description {
-    margin-left: 0;
+    align-items: center;
   }
 
   .step__title {
-    margin: 12px 0;
+    text-align: center;
   }
 
   .step__para {
