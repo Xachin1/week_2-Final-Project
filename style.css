@@ -7,7 +7,7 @@
 }
 body {
   overflow-x: hidden;
-  background-color: #cee0e3;
+  background-color: #eff2f3;
   color: #2a2828;
   font-size: 16px;
 }
@@ -162,9 +162,9 @@ a:hover {
 }
 
 /* navbar  */
-#landing {
+/* #landing {
   background: linear-gradient(#85cdd8, #cee0e3);
-}
+} */
 .navbar {
   width: 100%;
   max-width: 1200px;
@@ -297,9 +297,9 @@ header {
   opacity: 1;
 }
 /* features  */
-#features {
+/* #features {
   background: linear-gradient(#cee0e3, #85cdd8);
-}
+} */
 .container__features {
   padding: 90px 0;
 }
@@ -377,9 +377,9 @@ header {
   font-weight: 500;
 }
 /* quality  */
-#quality {
+/* #quality {
   background: linear-gradient(#85cdd8, #cee0e3);
-}
+} */
 
 .row__quality {
   display: flex;
@@ -407,9 +407,9 @@ header {
 }
 
 /* Steps  */
-#Steps {
+/* #Steps {
   background: linear-gradient(#cee0e3, #85cdd8);
-}
+} */
 .row__steps {
   display: flex;
   align-items: center;
@@ -456,9 +456,9 @@ header {
   color: rgb(27, 31, 36);
 }
 /* values  */
-#values {
+/* #values {
   background: linear-gradient(#85cdd8, #cee0e3);
-}
+} */
 .row__values {
   display: flex;
   align-items: center;
@@ -526,9 +526,9 @@ header {
 }
 
 /* Pricing  */
-#pricing {
+/* #pricing {
   background: linear-gradient(#cee0e3, #85cdd8);
-}
+} */
 .pricing__desc {
   display: flex;
   flex-direction: column;
@@ -657,9 +657,9 @@ header {
 }
 
 /* GET STARTED  */
-#get-started {
+/* #get-started {
   background: linear-gradient(#85cdd8, #cee0e3);
-}
+} */
 
 .get-started__wrapper {
   width: 100%;
